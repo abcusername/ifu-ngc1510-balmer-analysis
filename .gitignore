@@ -1,0 +1,13 @@
+```gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.idea/
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+*.fits
+*.result
